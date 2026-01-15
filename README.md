@@ -7,7 +7,7 @@
 </h2>
 
 <p align="center">
-  AWS | Cloud Security | Serverless | Automatización | Contenido educativo
+  AWS | Cloud Security | AI | CCNP | Contenido educativo
 </p>
 
 <p align="center">
