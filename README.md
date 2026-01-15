@@ -1,5 +1,6 @@
 <a href="https://www.youtube.com/@myitmentors">
-  <img width="100%" alt="Banner" src="https://i.imgur.com/iXuL1HG.png" />
+  <img width="100%" alt="Banner" src="[https://i.imgur.com/iXuL1HG.png](https://raw.githubusercontent.com/chaconerw/chaconerw/main/assets/banner.jpg
+)" />
 </a>
 
 <h2 align="center">
