@@ -30,14 +30,14 @@
 </ul>
 
 <h3>🎓 Certificaciones AWS</h3>
-<p style="pointer-events: none;">
-  <img alt="AWS Solutions Architect Professional" src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Professional-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img alt="AWS Security Specialty" src="https://img.shields.io/badge/AWS-Security%20Specialty-red?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img alt="AWS Advanced Networking Specialty" src="https://img.shields.io/badge/AWS-Advanced%20Networking%20Specialty-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img alt="AWS Data Analytics Specialty" src="https://img.shields.io/badge/AWS-Data%20Analytics%20Specialty-4B8BBE?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img alt="AWS Developer Associate" src="https://img.shields.io/badge/AWS-Developer%20Associate-6DB33F?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img alt="AWS SysOps Administrator Associate" src="https://img.shields.io/badge/AWS-SysOps%20Administrator%20Associate-1F7AFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img alt="AWS AI Practitioner" src="https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<p>
+  <img style="pointer-events:none; cursor:default;" alt="AWS Solutions Architect Professional" src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Professional-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img style="pointer-events:none; cursor:default;" alt="AWS Security Specialty" src="https://img.shields.io/badge/AWS-Security%20Specialty-red?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img style="pointer-events:none; cursor:default;" alt="AWS Advanced Networking Specialty" src="https://img.shields.io/badge/AWS-Advanced%20Networking%20Specialty-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img style="pointer-events:none; cursor:default;" alt="AWS Data Analytics Specialty" src="https://img.shields.io/badge/AWS-Data%20Analytics%20Specialty-4B8BBE?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img style="pointer-events:none; cursor:default;" alt="AWS Developer Associate" src="https://img.shields.io/badge/AWS-Developer%20Associate-6DB33F?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img style="pointer-events:none; cursor:default;" alt="AWS SysOps Administrator Associate" src="https://img.shields.io/badge/AWS-SysOps%20Administrator%20Associate-1F7AFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img style="pointer-events:none; cursor:default;" alt="AWS AI Practitioner" src="https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 <h3>🎯 En este GitHub vas a encontrar</h3>
