@@ -1,4 +1,4 @@
-<a href="https://www.youtube.com/@myitmentors">
+<a href="https://www.youtube.com/@myitmentors?sub_confirmation=1">
   <img width="100%" alt="Banner" src="https://raw.githubusercontent.com/chaconerw/chaconerw/main/assets/banner.jpg" />
 </a>
 
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@myitmentors" target="_blank">
+  <a href="https://www.youtube.com/@myitmentors?sub_confirmation=1" target="_blank">
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-MyITMentors-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/erwin-chacon/" target="_blank">
@@ -70,7 +70,7 @@
 <p>Si quieres aprender AWS de forma clara y práctica:</p>
 
 <p>
-  <a href="https://www.youtube.com/@myitmentors" target="_blank">
+  <a href="https://www.youtube.com/@myitmentors?sub_confirmation=1" target="_blank">
     <img alt="Subscribe" src="https://img.shields.io/badge/Suscríbete-MyITMentors-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
