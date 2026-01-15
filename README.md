@@ -30,15 +30,14 @@
 </ul>
 
 <h3>🎓 Certificaciones AWS</h3>
-<p>
-  <img style="pointer-events:none; cursor:default;" alt="AWS Solutions Architect Professional" src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Professional-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img style="pointer-events:none; cursor:default;" alt="AWS Security Specialty" src="https://img.shields.io/badge/AWS-Security%20Specialty-red?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img style="pointer-events:none; cursor:default;" alt="AWS Advanced Networking Specialty" src="https://img.shields.io/badge/AWS-Advanced%20Networking%20Specialty-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img style="pointer-events:none; cursor:default;" alt="AWS Data Analytics Specialty" src="https://img.shields.io/badge/AWS-Data%20Analytics%20Specialty-4B8BBE?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img style="pointer-events:none; cursor:default;" alt="AWS Developer Associate" src="https://img.shields.io/badge/AWS-Developer%20Associate-6DB33F?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img style="pointer-events:none; cursor:default;" alt="AWS SysOps Administrator Associate" src="https://img.shields.io/badge/AWS-SysOps%20Administrator%20Associate-1F7AFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img style="pointer-events:none; cursor:default;" alt="AWS AI Practitioner" src="https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
+
+![AWS Solutions Architect Professional](https://img.shields.io/badge/AWS-Solutions%20Architect%20Professional-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Security Specialty](https://img.shields.io/badge/AWS-Security%20Specialty-red?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Advanced Networking Specialty](https://img.shields.io/badge/AWS-Advanced%20Networking%20Specialty-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Data Analytics Specialty](https://img.shields.io/badge/AWS-Data%20Analytics%20Specialty-4B8BBE?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Developer Associate](https://img.shields.io/badge/AWS-Developer%20Associate-6DB33F?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS SysOps Administrator Associate](https://img.shields.io/badge/AWS-SysOps%20Administrator%20Associate-1F7AFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS AI Practitioner](https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 <h3>🎯 En este GitHub vas a encontrar</h3>
 <ul>
@@ -57,14 +56,13 @@
 </ul>
 
 <h3>🧰 Tecnologías</h3>
-<p>
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-</p>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 <h3>📺 YouTube</h3>
 <p>Si quieres aprender AWS de forma clara y práctica:</p>
@@ -73,10 +71,4 @@
   <a href="https://www.youtube.com/@myitmentors" target="_blank">
     <img alt="Subscribe" src="https://img.shields.io/badge/Suscríbete-MyITMentors-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-</p>
-
-<hr/>
-
-<p align="center">
-  <i>Aprender cloud no es memorizar servicios, es entender cómo se conectan.</i>
 </p>
