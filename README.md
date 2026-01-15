@@ -2,9 +2,7 @@
   <img width="100%" alt="Banner" src="https://raw.githubusercontent.com/chaconerw/chaconerw/main/assets/banner.jpg" />
 </a>
 
-<h2 align="center">
-  Hola 👋 Soy <b>Erwin Chacón</b>
-</h2>
+<h2 align="center">Hola 👋 Soy <b>Erwin Chacón</b></h2>
 
 <p align="center">
   AWS | Cloud Security | AI | CCNP | Contenido educativo
@@ -32,7 +30,7 @@
 </ul>
 
 <h3>🎓 Certificaciones AWS</h3>
-<p>
+<p style="pointer-events: none;">
   <img alt="AWS Solutions Architect Professional" src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Professional-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img alt="AWS Security Specialty" src="https://img.shields.io/badge/AWS-Security%20Specialty-red?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img alt="AWS Advanced Networking Specialty" src="https://img.shields.io/badge/AWS-Advanced%20Networking%20Specialty-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
