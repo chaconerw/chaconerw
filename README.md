@@ -1,6 +1,5 @@
 <a href="https://www.youtube.com/@myitmentors">
-  <img width="100%" alt="Banner" src="https://i.imgur.com/iXuL1HG.png](https://raw.githubusercontent.com/chaconerw/chaconerw/main/assets/banner.jpg
-)" />
+  <img width="100%" alt="Banner" src="https://raw.githubusercontent.com/chaconerw/chaconerw/main/assets/banner.jpg" />
 </a>
 
 <h2 align="center">
@@ -16,7 +15,7 @@
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-MyITMentors-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/erwin-chacon/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Erwin%20Chacón-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Erwin%20Chac%C3%B3n-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/chaconerw" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-chaconerw-171515?style=for-the-badge&logo=github&logoColor=white" />
@@ -70,9 +69,7 @@
 </p>
 
 <h3>📺 YouTube</h3>
-<p>
-  Si quieres aprender AWS de forma clara y práctica:
-</p>
+<p>Si quieres aprender AWS de forma clara y práctica:</p>
 
 <p>
   <a href="https://www.youtube.com/@myitmentors" target="_blank">
